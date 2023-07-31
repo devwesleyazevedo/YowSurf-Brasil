@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".gm-menu-installed .gm-menu {flex: 1;}",
+        "nav.header__inline-menu {flex: 1;}",
         "@media screen and (min-width: 990px) {.header--middle-left {display: flex; align-items: center; justify-content: space-between; }}"
       ],
       "settings": {
