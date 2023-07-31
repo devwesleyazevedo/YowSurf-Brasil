@@ -333,17 +333,8 @@
 
     <script>
       $(document).ready(function () {
-        // Seletor para encontrar o elemento "a" com a classe "gm-target"
-        $('a.gm-target').each(function () {
-          // Obter o valor do atributo "title"
-          var title = $(this).attr('title');
-
-          // Remover o atributo "title"
-          $(this).removeAttr('title');
-
-          // Definir o valor do atributo "data-title" como o valor do atributo "title" original
-          $(this).attr('data-title', title);
-        });
+        // Remover o atributo "title" de todos os elementos "a"
+        $('a').removeAttr('title');
       });
     </script>
 
