@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "nav.header__inline-menu {flex: 1;}",
+        "nav.header__inline-menu {flex: 1; position: initial;}",
         ".gm-submenu.gm-mega {top: 70px;}",
         ".hfgtNF {display: none !important;}",
         ".gm-submenu ul li.gm-heading span {text-transform: uppercase; letter-spacing: 0.3em; font-size: 0.85em; margin-bottom: 10px; color: #000000;}",
