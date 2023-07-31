@@ -385,7 +385,7 @@
   "platform_customizations": {
     "custom_css": [
       "nav.header__inline-menu {flex: 1; position: initial !important;}",
-      ".gm-submenu ul.gm-grid {max-width: 1500px !important; margin: 0 auto; padding: 0 40px; min-width: auto !important;}",
+      ".gm-submenu ul.gm-grid {max-width: 1500px !important; padding: 0 40px; min-width: auto !important; margin: 0 auto !important;}",
       ".gm-submenu.gm-mega {top: 70px;}",
       ".hfgtNF {display: none !important;}",
       ".gm-submenu ul li.gm-heading span {text-transform: uppercase; letter-spacing: 0.3em; font-size: 0.85em; margin-bottom: 10px; color: #000000;}",
