@@ -31,6 +31,7 @@
       "custom_css": [
         "nav.header__inline-menu {flex: 1;}",
         ".gm-submenu.gm-mega {top: 73px;}",
+        ".hfgtNF {display: none !important;}",
         "@media screen and (min-width: 990px) {.header--middle-left {display: flex; align-items: center; justify-content: space-between; }}"
       ],
       "settings": {
