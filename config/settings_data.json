@@ -385,6 +385,7 @@
   "platform_customizations": {
     "custom_css": [
       "nav.header__inline-menu {flex: 1; position: initial !important;}",
+      ".gm-submenu.gm-mega {padding: 39px 0;}",
       ".gm-submenu ul.gm-grid {max-width: 1500px !important; padding: 0 40px; min-width: auto !important; margin: 0 auto !important;}",
       ".gm-submenu.gm-mega {top: 70px;}",
       ".hfgtNF {display: none !important;}",
