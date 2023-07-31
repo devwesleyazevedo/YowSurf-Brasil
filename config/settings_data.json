@@ -381,5 +381,16 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "nav.header__inline-menu {flex: 1; position: initial;}",
+      ".gm-grid {max-width: 1500px !important; margin: 0 auto; padding: 0 40px; min-width: auto;}",
+      ".gm-submenu.gm-mega {top: 70px;}",
+      ".hfgtNF {display: none !important;}",
+      ".gm-submenu ul li.gm-heading span {text-transform: uppercase; letter-spacing: 0.3em; font-size: 0.85em; margin-bottom: 10px; color: #000000;}",
+      ".gm-submenu ul li.gm-item.gm-heading {border-bottom: none !important; margin: 0; padding: 0; margin-bottom: 0 !important;}",
+      "@media screen and (min-width: 990px) {.header--middle-left {display: flex; align-items: center; justify-content: space-between; }}"
+    ]
   }
 }
