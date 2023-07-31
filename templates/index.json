@@ -44,7 +44,8 @@
         "template--20260906139958__d29b5c1c-1dc9-4b55-a478-7994e2f07ea5-slide-2"
       ],
       "custom_css": [
-        "h2 {font-size:5rem;}"
+        "h2 {font-size: 1.125rem;}",
+        "h2 strong {font-size: 5rem;}"
       ],
       "settings": {
         "layout": "full_bleed",
