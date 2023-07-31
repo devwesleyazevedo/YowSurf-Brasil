@@ -116,8 +116,8 @@
         "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2"
       ],
       "custom_css": [
-        "ul.multicolumn-list {gap: 80px;}",
-        "ul.multicolumn-list li{flex: }",
+        ".multicolumn-list {gap: 80px !im;}",
+        ".multicolumn-list li {flex: ;}",
         ".multicolumn-card-spacing {margin: 0; padding: 0;}",
         ".multicolumn-card__info {position: absolute; bottom: 0; color: #fff;}",
         "h3.inline-richtext {font-family: Futura, sans-serif; font-size: 2.125em; line-height: 1.1; letter-spacing: 0em; text-transform: uppercase; font-weight: 700 !important; color: #fff;}",
