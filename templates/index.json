@@ -75,6 +75,9 @@
       "block_order": [
         "heading"
       ],
+      "custom_css": [
+        "h2 {font-size: 21px; line-height: 33px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
