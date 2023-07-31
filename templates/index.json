@@ -84,6 +84,50 @@
         "padding_bottom": 40
       }
     },
+    "4ff2e40f-1840-42b9-9cbb-24b8f9165eed": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "asasas",
+            "link": "shopify:\/\/pages\/blog"
+          }
+        },
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-1",
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -222,6 +266,7 @@
   "order": [
     "d29b5c1c-1dc9-4b55-a478-7994e2f07ea5",
     "rich_text",
+    "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
     "collage",
     "video",
