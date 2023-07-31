@@ -29,8 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "[title] {pointer-events: none; position: relative;}",
-        "nav ul li {cursor: pointer;}"
+        "[title] {pointer-events: none; position: relative;}"
       ],
       "settings": {
         "logo_position": "middle-left",
