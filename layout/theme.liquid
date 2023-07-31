@@ -332,29 +332,8 @@
     </script>
 
     <script>
-      // JavaScript
-      // Obtenha todos os elementos âncora (links) que possuem o atributo "title"
-      const linksComTitulo = document.querySelectorAll('a[title]');
-
-      // Adicione o evento de "hover" (passar o mouse por cima) em cada um desses links
-      linksComTitulo.forEach((link) => {
-        // Armazene o título atual do link em um atributo personalizado
-        link.setAttribute('data-title', link.getAttribute('title'));
-
-        // Remova o atributo "title" para evitar a exibição da caixa de dica (tooltip)
-        link.removeAttribute('title');
-
-        // Adicione o evento de "hover"
-        link.addEventListener('mouseover', () => {
-          // Quando o mouse estiver sobre o link, defina o atributo "title" como vazio para não mostrar a dica
-          link.setAttribute('title', '');
-        });
-
-        // Adicione o evento para quando o mouse sair do link (fim do hover)
-        link.addEventListener('mouseout', () => {
-          // Restaure o título original a partir do atributo personalizado
-          link.setAttribute('title', link.getAttribute('data-title'));
-        });
+      $('a["title"]').on('mouseenter', function (e) {
+        e.preventDefault();
       });
     </script>
 
