@@ -143,8 +143,11 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {font-size: 32px; text-transform: uppercase; font-weight: 700;}"
+      ],
       "settings": {
-        "title": "<strong>Featured products<\/strong>",
+        "title": "CONFIRA A GAMA COMPLETA",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
