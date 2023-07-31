@@ -94,8 +94,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "O TUBO 32\"",
+            "text": "<p>O FAVORITO DO POVO<\/p>",
             "link_label": "Compre agora",
             "link": "shopify:\/\/pages\/blog"
           }
@@ -104,8 +104,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_right_medina_720x_c4f69546-d8fe-4011-8b31-4df244f7d89d.webp",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "GABRIEL MEDINA",
+            "text": "<p>a série de assinaturas<\/p>",
             "link_label": "Compre isso",
             "link": "shopify:\/\/pages\/contact"
           }
@@ -118,8 +118,9 @@
       "custom_css": [
         ".multicolumn-card-spacing {margin: 0; padding: 0;}",
         ".multicolumn-card__info {position: absolute; bottom: 0; color: #fff;}",
-        "h3 {font-size: 2.125em; text-transform: uppercase; font-weight: 700; color: #fff;}",
-        "a {background: #000000; color: #fff; font-weight: 700; padding: 11px 20px; text-transform: uppercase;}"
+        "h3.inline-richtext {font-size: 2.125em; text-transform: uppercase; font-weight: 700 !important; color: #fff;}",
+        "a {background: #000000; color: #fff; font-weight: 700; padding: 11px 20px; text-transform: uppercase;}",
+        "p {font-size: 15px; line-height: 18px; font-weight: 400; text-transform: uppercase;}"
       ],
       "settings": {
         "title": "Multicolumn",
