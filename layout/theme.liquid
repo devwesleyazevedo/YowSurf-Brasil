@@ -332,8 +332,8 @@
     </script>
 
     <script>
-      $('body').on('mouseenter', function (e) {
-        e.preventDefault();
+      $('a').on('change-something', function (event) {
+        this.removeAttr('title');
       });
     </script>
 
