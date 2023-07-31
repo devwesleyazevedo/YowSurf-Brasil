@@ -46,7 +46,7 @@
       "custom_css": [
         "h2 {font-size: 1.8rem; font-family: Poppins, sans-serif; font-weight: 500; display: block; width: 100%; color: #fff; letter-spacing: 10px;}",
         "h2 strong {font-size: 8rem; display: block; width: 100%; font-weight: 800; letter-spacing: 0;}",
-        ".banner__text.rte {color: #fff;}",
+        ".banner__text.rte {color: #fff; font-size: 2rem;}",
         ".slideshow__text.banner__box {max-width: 100%; background: transparent;}",
         ".button button--primary {background-color: #000;}"
       ],
