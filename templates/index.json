@@ -103,6 +103,7 @@
         "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_right_medina_720x_c4f69546-d8fe-4011-8b31-4df244f7d89d.webp",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -113,6 +114,11 @@
       "block_order": [
         "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-1",
         "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2"
+      ],
+      "custom_css": [
+        ".multicolumn-card-spacing {margin: 0; padding: 0;}",
+        ".multicolumn-card__info {position: absolute; bottom: 0; color: #fff;}",
+        "h3 {font-size: 2.125em; text-transform: uppercase; font-weight: 700; color: #fff;}"
       ],
       "settings": {
         "title": "Multicolumn",
