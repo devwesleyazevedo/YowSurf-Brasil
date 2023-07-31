@@ -32,6 +32,7 @@
         "nav.header__inline-menu {flex: 1;}",
         ".gm-submenu.gm-mega {top: 73px;}",
         ".hfgtNF {display: none !important;}",
+        ".gm-target {text-transform: uppercase; letter-spacing: 0.3em; font-size: 0.75em; margin-bottom: 10px;}",
         "@media screen and (min-width: 990px) {.header--middle-left {display: flex; align-items: center; justify-content: space-between; }}"
       ],
       "settings": {
