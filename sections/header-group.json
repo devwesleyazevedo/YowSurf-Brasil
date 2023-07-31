@@ -29,7 +29,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "[title] {pointer-events: none; \/* Impede interações do mouse com o elemento *\/ position: relative; \/* Define a posição do elemento como relativa *\/}"
+        "[title] {pointer-events: none; position: relative;}",
+        "a {cursor: pointer;}"
       ],
       "settings": {
         "logo_position": "middle-left",
