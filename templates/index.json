@@ -144,7 +144,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "<strong>Featured products<\/strong>",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
