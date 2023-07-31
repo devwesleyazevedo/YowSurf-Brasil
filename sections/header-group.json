@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        ".gm-target:hover[title]::before {opacity: 0;}"
       ],
       "settings": {
         "logo_position": "middle-left",
