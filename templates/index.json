@@ -75,7 +75,8 @@
         "d7f0cdb5-83a5-467f-91a7-4f9268ab9ed9"
       ],
       "custom_css": [
-        "p {font-size: 21px !important; line-height: 33px !important; width: 920px;}"
+        "p {font-size: 21px !important; line-height: 33px !important; width: 920px;}",
+        ".rich-text__blocks center {max-width: 1000px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
