@@ -9,26 +9,26 @@
   }
   
   /* Estilos para títulos h1, h2, h3 */
-  h1 {
+  * h1 {
     font-size: var(--tamanho-titulo-h1);
     color: var(--cor-primaria);
     text-transform: var(--text-transform-custom);
   }
   
-  h2 {
+  * h2 {
     font-size: var(--tamanho-titulo-h2);
     color: var(--cor-secundaria);
     text-transform: var(--text-transform-custom);
   }
   
-  h3 {
+  * h3 {
     font-size: var(--tamanho-titulo-h3);
     color: var(--cor-secundaria);
     text-transform: var(--text-transform-custom);
   }
   
   /* Estilos para parágrafos */
-  p {
+  * p {
     color: var(--cor-secundaria);
   }
   
