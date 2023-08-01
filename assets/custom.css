@@ -1,6 +1,6 @@
 /* Definindo variáveis globais */
 :root {
-    --cor-primaria: #000;
+    --cor-primaria: #fff;
     --cor-secundaria: #000;
     --tamanho-titulo-h1: 3.5rem;
     --tamanho-titulo-h2: 3rem;
@@ -17,13 +17,13 @@
   
   h2 {
     font-size: var(--tamanho-titulo-h2) !important;
-    color: var(--cor-primaria) !important;
+    color: var(--cor-secundaria) !important;
     text-transform: var(--text-transform-custom) !important;
   }
   
   h3 {
     font-size: var(--tamanho-titulo-h3) !important;
-    color: var(--cor-primaria) !important;
+    color: var(--cor-secundaria) !important;
     text-transform: var(--text-transform-custom) !important;
   }
   
