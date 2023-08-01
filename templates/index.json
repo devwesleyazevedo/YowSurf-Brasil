@@ -75,7 +75,8 @@
         "d7f0cdb5-83a5-467f-91a7-4f9268ab9ed9"
       ],
       "custom_css": [
-        "p {font-size: 21px !important; line-height: 33px !important;}"
+        "p {font-size: 21px !important; line-height: 33px !important; width: 920px;}",
+        ".rich-text__blocks.enter {max-width: 1000px !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -147,7 +148,7 @@
       ],
       "settings": {
         "title": "CONFIRA A GAMA COMPLETA",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
