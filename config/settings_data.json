@@ -3,7 +3,7 @@
     "logo": "shopify:\/\/shop_images\/logo.webp",
     "logo_width": 100,
     "favicon": "shopify:\/\/shop_images\/favicon_symbol_2x_32x32_f8c333b8-2778-44dd-91ff-17fa13a55030.webp",
-    "type_header_font": "futura_n4",
+    "type_header_font": "futura_black_n4",
     "heading_scale": 100,
     "type_body_font": "poppins_n4",
     "body_scale": 100,
@@ -391,7 +391,7 @@
       ".hfgtNF {display: none !important;}",
       ".gm-submenu ul li.gm-heading span {text-transform: uppercase; letter-spacing: 0.3em; font-size: 0.85em; margin-bottom: 10px; color: #000000;}",
       ".gm-submenu ul li.gm-item.gm-heading {border-bottom: none !important; margin: 0; padding: 0; margin-bottom: 0 !important;}",
-      ".slideshow__controls.slider-buttons {display: none}",
+      ".slideshow__controls.slider-buttons {display: none;}",
       "@media screen and (min-width: 990px) {.header--middle-left {display: flex; align-items: center; justify-content: space-between; }}"
     ]
   }
