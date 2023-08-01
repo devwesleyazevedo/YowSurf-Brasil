@@ -10,35 +10,35 @@
   
   /* Estilos para títulos h1, h2, h3 */
   h1 {
-    font-size: var(--tamanho-titulo-h1);
-    color: var(--cor-primaria);
-    text-transform: var(--text-transform-custom);
+    font-size: var(--tamanho-titulo-h1) !important;
+    color: var(--cor-primaria) !important;
+    text-transform: var(--text-transform-custom) !important;
   }
   
   h2 {
-    font-size: var(--tamanho-titulo-h2);
-    color: var(--cor-primaria);
-    text-transform: var(--text-transform-custom);
+    font-size: var(--tamanho-titulo-h2) !important;
+    color: var(--cor-primaria) !important;
+    text-transform: var(--text-transform-custom) !important;
   }
   
   h3 {
-    font-size: var(--tamanho-titulo-h3);
-    color: var(--cor-primaria);
-    text-transform: var(--text-transform-custom);
+    font-size: var(--tamanho-titulo-h3) !important;
+    color: var(--cor-primaria) !important;
+    text-transform: var(--text-transform-custom) !important;
   }
   
   /* Estilos para parágrafos */
   p {
-    color: var(--cor-secundaria);
+    color: var(--cor-secundaria) !important;
   }
   
   /* Estilos para botões com a classe .button--primary */
   .button--primary {
-    background-color: var(--cor-primaria);
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+    background-color: var(--cor-primaria) !important;
+    color: #fff !important;
+    padding: 10px 20px !important;
+    border: none !important;
+    border-radius: 5px !important;
+    cursor: pointer !important;
   }
   
