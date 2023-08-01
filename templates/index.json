@@ -144,7 +144,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        "h2 {font-size: 32px; text-transform: uppercase; font-weight: 700;}"
+
       ],
       "settings": {
         "title": "CONFIRA A GAMA COMPLETA",
