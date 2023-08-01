@@ -64,16 +64,15 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "d7f0cdb5-83a5-467f-91a7-4f9268ab9ed9": {
+          "type": "text",
           "settings": {
-            "heading": "O YOW nasceu como uma alternativa de surf para dias planos e como uma ferramenta para disponibilizar o surf para surfistas sem litoral. Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra. Com YOW você pode surfar em qualquer lugar do mundo. Bombeie, esculpa e rasgue as ruas com YOW.",
-            "heading_size": "h2"
+            "text": "<p>O YOW nasceu como uma alternativa de surf para dias planos e como uma ferramenta para disponibilizar o surf para surfistas sem litoral. Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra. Com YOW você pode surfar em qualquer lugar do mundo. Bombeie, esculpa e rasgue as ruas com YOW.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading"
+        "d7f0cdb5-83a5-467f-91a7-4f9268ab9ed9"
       ],
       "custom_css": [
         "h2 {font-size: 21px; line-height: 33px;}"
