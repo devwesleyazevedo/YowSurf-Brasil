@@ -1,0 +1,8 @@
+:root {
+    --tamanho-titulo-h3: 1.8rem;
+  }
+
+h3.card__heading {
+    font-weight: 800;
+    font-size: var(--tamanho-titulo-h3);
+}
