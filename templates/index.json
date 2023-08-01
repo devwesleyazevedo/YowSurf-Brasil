@@ -76,7 +76,7 @@
       ],
       "custom_css": [
         "p {font-size: 21px !important; line-height: 33px !important; width: 920px;}",
-        ".rich-text__blocks center {max-width: 1000px;}"
+        ".rich-text__blocks.enter {max-width: 1000px !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
