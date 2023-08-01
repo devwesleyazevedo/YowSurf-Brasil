@@ -58,7 +58,7 @@
         "change_slides_speed": 5,
         "image_behavior": "ambient",
         "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "Apresentação de slides sobre nossa marca"
       }
     },
     "rich_text": {
@@ -67,35 +67,88 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "heading": "O YOW nasceu como uma alternativa de surf para dias planos e como uma ferramenta para disponibilizar o surf para surfistas sem litoral. Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra. Com YOW você pode surfar em qualquer lugar do mundo. Bombeie, esculpa e rasgue as ruas com YOW.",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading"
+      ],
+      "custom_css": [
+        "h2 {font-size: 21px; line-height: 33px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "4ff2e40f-1840-42b9-9cbb-24b8f9165eed": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
+            "title": "O TUBO 32\"",
+            "text": "<p>O FAVORITO DO POVO<\/p>",
+            "link_label": "Compre agora",
+            "link": "shopify:\/\/pages\/blog"
+          }
+        },
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_right_medina_720x_c4f69546-d8fe-4011-8b31-4df244f7d89d.webp",
+            "title": "GABRIEL MEDINA",
+            "text": "<p>a série de assinaturas<\/p>",
+            "link_label": "Compre isso",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-1",
+        "template--20260906139958__4ff2e40f-1840-42b9-9cbb-24b8f9165eed-column-2"
+      ],
+      "custom_css": [
+        "slider-component ul {gap: 40px;}",
+        "slider-component ul li {flex: 1;}",
+        ".multicolumn-card-spacing {margin: 0; padding: 0;}",
+        ".multicolumn-card__info {position: absolute; bottom: 0; color: #fff;}",
+        "h3.inline-richtext {font-family: Futura, sans-serif; font-size: 2.125em; line-height: 1.1; letter-spacing: 0em; text-transform: uppercase; font-weight: 700 !important; color: #fff;}",
+        "a {background: #000000; color: #fff; font-weight: 700; padding: 11px 20px; text-transform: uppercase;}",
+        "p {font-size: 15px; line-height: 18px; font-weight: 400; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {font-size: 32px; text-transform: uppercase; font-weight: 700;}"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "CONFIRA A GAMA COMPLETA",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -118,120 +171,12 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "d29b5c1c-1dc9-4b55-a478-7994e2f07ea5",
     "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
+    "featured_collection"
   ]
 }
