@@ -12,3 +12,7 @@
   display: grid !important;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.footer__blocks-wrapper.grid .footer-block.grid__item {
+  width: 100%;
+}
