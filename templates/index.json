@@ -188,6 +188,11 @@
         "padding_top": 36,
         "padding_bottom": 80
       }
+    },
+    "1cacd4dc-7157-4e3f-bbbe-7c3c9d3fa4ec": {
+      "type": "custom_block",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -195,6 +200,7 @@
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
-    "d89bff15-26b0-4558-b71b-9f0921f0524b"
+    "d89bff15-26b0-4558-b71b-9f0921f0524b",
+    "1cacd4dc-7157-4e3f-bbbe-7c3c9d3fa4ec"
   ]
 }
