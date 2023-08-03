@@ -69,7 +69,7 @@ ul.list-unstyled.list-social.footer__list-social .list-social__item .icon {
   .footer-block__newsletter form {
     margin: 0 auto;
   }
-  .ul.list-unstyled.list-social.footer__list-social {
+  ul.list-unstyled.list-social.footer__list-social {
     align-items: center;
     justify-content: center !important;
   }
