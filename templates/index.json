@@ -244,7 +244,7 @@
           "settings": {
             "button_label": "Descubra mais",
             "button_link": "",
-            "button_style_secondary": true
+            "button_style_secondary": false
           }
         }
       },
@@ -258,7 +258,8 @@
         "h2 em {text-transform: uppercase; letter-spacing: 0.3em; font-size: 13px; margin-bottom: 10px; font-style: normal; display: block;}",
         "p {font-size: 18px; color: #000;}",
         "img {max-width: 500px; margin: 0 auto; display: block; height: auto; position: relative;}",
-        ".image-with-text__media {padding: 0 !important; border: 0 !important; display: flex; align-items: center; justify-content: center;}"
+        ".image-with-text__media {padding: 0 !important; border: 0 !important; display: flex; align-items: center; justify-content: center;}",
+        "a {background-color: rgba(var(--color-button), var(--alpha-button-background));}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1080x1080_meraki_single_540x_f067669c-3d1b-45ea-8f72-7d0d1a9dd8ef.webp",
