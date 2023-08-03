@@ -178,26 +178,33 @@
         "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "destaques-principais-produtos-yow-surfskate"
+            "collection": "serie-de-desempenho"
           }
         },
         "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "destaques-principais-produtos-yow-surfskate"
+            "collection": "serie-shaper"
           }
         },
         "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "destaques-principais-produtos-yow-surfskate"
+            "collection": "serie-de-assinaturas"
+          }
+        },
+        "cd73ff92-a2e6-4836-8c6f-e90ec969015e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "os-gross"
           }
         }
       },
       "block_order": [
         "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-1",
         "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-2",
-        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-3"
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-3",
+        "cd73ff92-a2e6-4836-8c6f-e90ec969015e"
       ],
       "settings": {
         "title": "",
