@@ -66,6 +66,7 @@
               data-cascade
             {% endif %}
           >
+            <p>teste3</p>
             {%- for block in section.blocks -%}
               <div
                 class="footer-block grid__item{% if block.type == 'link_list' %} footer-block--menu{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
@@ -157,17 +158,7 @@
                 {%- endcase -%}
               </div>
             {%- endfor -%}
-
             <p>teste3</p>
-            {%- liquid
-              if section.settings.menu != blank
-                if section.settings.menu_type_desktop == 'dropdown'
-                  render 'header-dropdown-menu'
-                elsif section.settings.menu_type_desktop != 'drawer'
-                  render 'header-mega-menu'
-                endif
-              endif
-            %}
           </div>
         {%- endif -%}
 
