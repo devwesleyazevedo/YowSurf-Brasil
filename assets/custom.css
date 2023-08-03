@@ -47,7 +47,7 @@ ul.list-unstyled.list-social.footer__list-social .list-social__item .icon {
 } 
 
 
-@media screen and (min-width: 1000px) {
+@media screen and (max-width: 1000px) {
   .footer__blocks-wrapper.grid {
     grid-template-columns: auto;
     align-items: center;
