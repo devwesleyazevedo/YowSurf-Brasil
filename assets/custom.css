@@ -23,6 +23,11 @@
   font-size: 0.75em;
 }
 
+.footer-block__newsletter p {
+  font-size: 14px;
+  line-height: 22px;
+  color: #fff;
+}
 
 
 .footer__blocks-wrapper.grid .footer-block.grid__item a {
