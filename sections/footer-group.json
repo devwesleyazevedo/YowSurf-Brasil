@@ -39,24 +39,10 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
+        "7383a8d7-1882-47d1-ada0-9873fc503d44": {
           "type": "link_list",
           "settings": {
-            "heading": "",
-            "menu": "footer"
-          }
-        },
-        "4f54fb35-9f54-4310-a58c-8f6c29ed308c": {
-          "type": "text",
-          "settings": {
-            "heading": "Heading",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
+            "heading": "YOW",
             "menu": "footer"
           }
         },
@@ -69,9 +55,7 @@
         }
       },
       "block_order": [
-        "footer-0",
-        "4f54fb35-9f54-4310-a58c-8f6c29ed308c",
-        "footer-1",
+        "7383a8d7-1882-47d1-ada0-9873fc503d44",
         "footer-2"
       ],
       "settings": {
