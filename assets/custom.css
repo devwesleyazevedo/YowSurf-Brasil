@@ -71,6 +71,11 @@ ul.list-unstyled.list-social.footer__list-social .list-social__item .icon {
   }
   .ul.list-unstyled.list-social.footer__list-social {
     align-items: center;
-    justify-content: center;
+    justify-content: center !important;
+  }
+  .footer__blocks-wrapper.grid .footer-block.grid__item a{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
   }
 }
