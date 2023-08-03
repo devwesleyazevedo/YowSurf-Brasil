@@ -192,7 +192,7 @@
     "8d12f073-1f54-4417-8cc4-f143f514f13e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n    .background-image {\n      background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1304\/4790\/files\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg?v=1691074357');\n      background-size: cover;\n      background-attachment: fixed;\n      background-position: center;\n      height: 100vh; \/* Garante que a div ocupe toda a altura da tela *\/\n    }\n\n    \/* Estilos adicionais para o conteúdo da página *\/\n    .content {\n      max-width: 800px;\n      margin: 50px auto;\n      background-color: rgba(255, 255, 255, 0.7);\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);\n    }\n  <\/style>\n\n<div class=\"background-image\"><\/div>",
+        "custom_liquid": "<style>\n    .background-image {\ndisplay: block !important;\n      background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1304\/4790\/files\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg?v=1691074357');\n      background-size: cover;\n      background-attachment: fixed;\n      background-position: center;\n      height: 100vh; \/* Garante que a div ocupe toda a altura da tela *\/\n    }\n\n    \/* Estilos adicionais para o conteúdo da página *\/\n    .content {\n      max-width: 800px;\n      margin: 50px auto;\n      background-color: rgba(255, 255, 255, 0.7);\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);\n    }\n  <\/style>\n\n<div class=\"background-image\"><\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
