@@ -6,3 +6,9 @@
     font-weight: 800;
     font-size: var(--tamanho-titulo-h3);
 }
+
+
+.footer__blocks-wrapper.grid {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
