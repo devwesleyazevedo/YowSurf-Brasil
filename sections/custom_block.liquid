@@ -1,4 +1,31 @@
 <!-- custom_block.liquid -->
+{% schema %}
+{
+  "name": "Custom Block",
+  "settings": [
+    {
+      "type": "text",
+      "label": "Título",
+      "id": "title",
+      "default": "Meu Bloco Personalizado"
+    },
+    {
+      "type": "textarea",
+      "label": "Descrição",
+      "id": "description",
+      "default": "Esta é uma descrição do meu bloco personalizado."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Padrão",
+      "category": "Personalizado"
+    }
+  ]
+}
+{% endschema %}
+
+]
 
 <div class="custom-block">
   <h2>{{ section.settings.title }}</h2>
