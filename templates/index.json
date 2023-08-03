@@ -188,54 +188,6 @@
         "padding_top": 36,
         "padding_bottom": 80
       }
-    },
-    "19cc4020-03fa-42bf-b6b1-e543636ac15a": {
-      "type": "image-banner",
-      "blocks": {
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-heading-1",
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-text-1",
-        "template--20260906139958__19cc4020-03fa-42bf-b6b1-e543636ac15a-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -243,7 +195,6 @@
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
-    "d89bff15-26b0-4558-b71b-9f0921f0524b",
-    "19cc4020-03fa-42bf-b6b1-e543636ac15a"
+    "d89bff15-26b0-4558-b71b-9f0921f0524b"
   ]
 }
