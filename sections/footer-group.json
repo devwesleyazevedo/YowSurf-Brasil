@@ -69,12 +69,20 @@
             "heading": "YOW",
             "menu": "footer"
           }
+        },
+        "5f77a048-9b60-4af4-83d1-86e9b7c3850f": {
+          "type": "link_list",
+          "settings": {
+            "heading": "YOW",
+            "menu": "footer"
+          }
         }
       },
       "block_order": [
         "51ab5377-c4d3-4f05-afac-18d7f3bcedf0",
         "d2c94cbb-38e6-4cc2-b011-c0dcf0db0fb2",
-        "015cef23-54b0-4c02-a1eb-f4e67d0667cf"
+        "015cef23-54b0-4c02-a1eb-f4e67d0667cf",
+        "5f77a048-9b60-4af4-83d1-86e9b7c3850f"
       ],
       "settings": {
         "color_scheme": "inverse",
