@@ -211,7 +211,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/1080x1080_meraki_single_540x_f067669c-3d1b-45ea-8f72-7d0d1a9dd8ef.webp",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
