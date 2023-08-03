@@ -172,6 +172,15 @@
         "padding_bottom": 100
       }
     },
+    "8d12f073-1f54-4417-8cc4-f143f514f13e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n    .background-image {\n\t\tdisplay: block !important;\n\t\tbackground-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1304\/4790\/files\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg?v=1691074357');\n\t\tbackground-size: cover;\n\t\tbackground-attachment: fixed;\n\t\tbackground-position: center;\n         min-height: 750px;\n    }\n  <\/style>\n\n<div class=\"background-image\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "d89bff15-26b0-4558-b71b-9f0921f0524b": {
       "type": "featured-blog",
       "settings": {
@@ -188,15 +197,6 @@
         "padding_top": 36,
         "padding_bottom": 80
       }
-    },
-    "8d12f073-1f54-4417-8cc4-f143f514f13e": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n    .background-image {\ndisplay: block !important;\n      background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1304\/4790\/files\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg?v=1691074357');\n      background-size: cover;\n      background-attachment: fixed;\n      background-position: center;\n          min-height: 750px;Garante que a div ocupe toda a altura da tela *\/\n    }\n\n    \/* Estilos adicionais para o conteúdo da página *\/\n    .content {\n      max-width: 800px;\n      margin: 50px auto;\n      background-color: rgba(255, 255, 255, 0.7);\n      padding: 20px;\n      border-radius: 10px;\n      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);\n    }\n  <\/style>\n\n<div class=\"background-image\"><\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -204,7 +204,7 @@
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
-    "d89bff15-26b0-4558-b71b-9f0921f0524b",
-    "8d12f073-1f54-4417-8cc4-f143f514f13e"
+    "8d12f073-1f54-4417-8cc4-f143f514f13e",
+    "d89bff15-26b0-4558-b71b-9f0921f0524b"
   ]
 }
