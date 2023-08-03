@@ -39,7 +39,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "7383a8d7-1882-47d1-ada0-9873fc503d44": {
+        "51ab5377-c4d3-4f05-afac-18d7f3bcedf0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_yow_wht_4x_x50_2x_1b9e21c7-208d-4371-971a-54de18a0c87e.png",
+            "image_width": 200,
+            "alignment": ""
+          }
+        },
+        "d2c94cbb-38e6-4cc2-b011-c0dcf0db0fb2": {
           "type": "link_list",
           "settings": {
             "heading": "SURFSKATES",
@@ -62,7 +70,8 @@
         }
       },
       "block_order": [
-        "7383a8d7-1882-47d1-ada0-9873fc503d44",
+        "51ab5377-c4d3-4f05-afac-18d7f3bcedf0",
+        "d2c94cbb-38e6-4cc2-b011-c0dcf0db0fb2",
         "015cef23-54b0-4c02-a1eb-f4e67d0667cf",
         "998e423c-6539-44aa-aacf-447a41cf5329"
       ],
