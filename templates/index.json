@@ -204,6 +204,7 @@
         "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-button-1"
       ],
       "custom_css": [
+        "h2 {font-size: 27px;}",
         "h2 em {text-transform: uppercase; letter-spacing: 0.3em; font-size: 13px; margin-bottom: 10px; font-style: normal; display: block;}"
       ],
       "settings": {
