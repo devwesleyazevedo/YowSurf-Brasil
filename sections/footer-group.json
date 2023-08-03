@@ -53,14 +53,7 @@
             "menu": "footer"
           }
         },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "subtext": ""
-          }
-        },
-        "af0b2775-a2ee-47c1-814a-a050bf9c0d13": {
+        "998e423c-6539-44aa-aacf-447a41cf5329": {
           "type": "text",
           "settings": {
             "heading": "",
@@ -71,8 +64,7 @@
       "block_order": [
         "7383a8d7-1882-47d1-ada0-9873fc503d44",
         "015cef23-54b0-4c02-a1eb-f4e67d0667cf",
-        "footer-2",
-        "af0b2775-a2ee-47c1-814a-a050bf9c0d13"
+        "998e423c-6539-44aa-aacf-447a41cf5329"
       ],
       "settings": {
         "color_scheme": "inverse",
