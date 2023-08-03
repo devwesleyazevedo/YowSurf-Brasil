@@ -16,3 +16,14 @@
 .footer__blocks-wrapper.grid .footer-block.grid__item {
   width: 100%;
 }
+
+.footer__blocks-wrapper.grid .footer-block.grid__item h2.footer-block__heading {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 0.75em;
+}
+
+.footer__blocks-wrapper.grid .footer-block.grid__item a {
+  color:#fff;
+  text-decoration: none;
+}
