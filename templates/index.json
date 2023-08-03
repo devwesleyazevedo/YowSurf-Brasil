@@ -172,21 +172,6 @@
         "padding_bottom": 100
       }
     },
-    "a21c137e-3e76-4651-a254-174712ae4419": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".grid-container {display: grid; grid-template-columns: 1fr; gap: 20px; padding: 20px;}",
-        "@media (min-width: 768px) {.grid-container {grid-template-columns: 1fr 1fr; }}",
-        ".grid-item {position: relative; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden;}",
-        ".grid-item iframe {position: absolute; width: 100%; height: 100%; top: 0; left: 0;}"
-      ],
-      "settings": {
-        "custom_liquid": "<iframe \n  class=\"bg-video\"\n  src=\"https:\/\/www.youtube.com\/embed\/L1FlIoZVETY?autoplay=1&mute=1&controls=0&loop=1&playlist=dQw4w9WgXcQ\"\n  frameBorder=\"0\"\n  allowFullScreen\n  allow=\"autoplay\"\n\/>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "c332af5d-2714-4bf6-8069-2455adc4807a": {
       "type": "collection-list",
       "blocks": {
@@ -322,7 +307,6 @@
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
-    "a21c137e-3e76-4651-a254-174712ae4419",
     "c332af5d-2714-4bf6-8069-2455adc4807a",
     "66bce3f8-e172-4c23-a4d1-2b76e39435ad",
     "8d12f073-1f54-4417-8cc4-f143f514f13e",
