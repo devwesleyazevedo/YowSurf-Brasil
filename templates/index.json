@@ -141,6 +141,18 @@
         "padding_bottom": 40
       }
     },
+    "f27e017c-5473-4dd2-a6fa-b970ae08bc02": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<iframe \n  class=\"bg-video\"\n  src=\"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ?autoplay=1&mute=1&controls=0&loop=1&playlist=dQw4w9WgXcQ\"\n  frameBorder=\"0\"\n  allowFullScreen\n  allow=\"autoplay\"\n\/>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
@@ -306,6 +318,7 @@
     "d29b5c1c-1dc9-4b55-a478-7994e2f07ea5",
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
+    "f27e017c-5473-4dd2-a6fa-b970ae08bc02",
     "featured_collection",
     "c332af5d-2714-4bf6-8069-2455adc4807a",
     "66bce3f8-e172-4c23-a4d1-2b76e39435ad",
