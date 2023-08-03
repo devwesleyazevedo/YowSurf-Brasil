@@ -243,7 +243,7 @@
           "type": "button",
           "settings": {
             "button_label": "Descubra mais",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false
           }
         }
