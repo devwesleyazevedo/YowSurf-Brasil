@@ -42,6 +42,13 @@
         "7383a8d7-1882-47d1-ada0-9873fc503d44": {
           "type": "link_list",
           "settings": {
+            "heading": "SURFSKATES",
+            "menu": "menu-de-rodap-2"
+          }
+        },
+        "015cef23-54b0-4c02-a1eb-f4e67d0667cf": {
+          "type": "link_list",
+          "settings": {
             "heading": "YOW",
             "menu": "footer"
           }
@@ -56,6 +63,7 @@
       },
       "block_order": [
         "7383a8d7-1882-47d1-ada0-9873fc503d44",
+        "015cef23-54b0-4c02-a1eb-f4e67d0667cf",
         "footer-2"
       ],
       "settings": {
