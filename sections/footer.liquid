@@ -220,10 +220,12 @@
                     </h3>
                   {%- endif -%}
                 {%- endform -%}
+
+                {%- if section.settings.show_social and has_social_icons -%}
+                  {%- render 'social-icons', class: 'footer__list-social' -%}
+                {%- endif -%}
               </div>
             {%- endif -%}
-
-            aqui
           </div>
         {%- endif -%}
 
