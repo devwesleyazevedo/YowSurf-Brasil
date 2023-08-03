@@ -45,3 +45,32 @@ ul.list-unstyled.list-social.footer__list-social .list-social__item .icon {
   height: 2.8rem;
   width: 2.8rem;
 } 
+
+
+@media(max-width: 1000px){
+  .footer__blocks-wrapper.grid {
+    grid-template-columns: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .footer-block-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer__blocks-wrapper.grid .footer-block.grid__item h2.footer-block__heading, .footer-block__newsletter h2.footer-block__heading{
+    text-align: center;
+  }
+  
+  .footer-block__newsletter p {
+    text-align: center;
+  }
+  .footer-block__newsletter form {
+    margin: 0 auto;
+  }
+  .ul.list-unstyled.list-social.footer__list-social {
+    align-items: center;
+    justify-content: center;
+  }
+}
