@@ -172,6 +172,133 @@
         "padding_bottom": 100
       }
     },
+    "a21c137e-3e76-4651-a254-174712ae4419": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".grid-container {display: grid; grid-template-columns: 1fr; gap: 20px; padding: 20px;}",
+        "@media (min-width: 768px) {.grid-container {grid-template-columns: 1fr 1fr; }}",
+        ".grid-item {position: relative; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden;}",
+        ".grid-item iframe {position: absolute; width: 100%; height: 100%; top: 0; left: 0;}"
+      ],
+      "settings": {
+        "custom_liquid": "<iframe \n  class=\"bg-video\"\n  src=\"https:\/\/www.youtube.com\/embed\/L1FlIoZVETY?autoplay=1&mute=1&controls=0&loop=1&playlist=dQw4w9WgXcQ\"\n  frameBorder=\"0\"\n  allowFullScreen\n  allow=\"autoplay\"\n\/>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c332af5d-2714-4bf6-8069-2455adc4807a": {
+      "type": "collection-list",
+      "blocks": {
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-de-desempenho"
+          }
+        },
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-shaper"
+          }
+        },
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-de-assinaturas"
+          }
+        },
+        "cd73ff92-a2e6-4836-8c6f-e90ec969015e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "os-gross"
+          }
+        }
+      },
+      "block_order": [
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-1",
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-2",
+        "template--20260906139958__c332af5d-2714-4bf6-8069-2455adc4807a-featured_collection-3",
+        "cd73ff92-a2e6-4836-8c6f-e90ec969015e"
+      ],
+      "custom_css": [
+        ".card__information {padding-bottom: 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "66bce3f8-e172-4c23-a4d1-2b76e39435ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>O CAMINHÃO GIRATÓRIO<\/em> <strong>SISTEMA DE SURFSKATE MERAKI<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O sistema de surfskate YOW Meraki é o culminar dos últimos 5 anos de pesquisa e desenvolvimento. Um design mais simplificado e reforçado junto com nosso sistema de mola patenteado o torna uma das configurações de surfskate mais exclusivas do mundo.<\/p><p>O novo sistema agora está unificado aos nossos próprios caminhões de skate, tornando-o mais estável sem sacrificar o fluxo de surf pelo qual nosso sistema é bem conhecido. Leve seu surfskating para o próximo nível.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Descubra mais",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-heading-1",
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-text-1",
+        "template--20260906139958__66bce3f8-e172-4c23-a4d1-2b76e39435ad-button-1"
+      ],
+      "custom_css": [
+        "h2 {font-size: 27px;}",
+        "h2 em {text-transform: uppercase; letter-spacing: 0.3em; font-size: 13px; margin-bottom: 10px; font-style: normal; display: block;}",
+        "p {font-size: 18px; color: #000;}",
+        "img {max-width: 500px; margin: 0 auto; display: block; height: auto; position: relative;}",
+        ".image-with-text__media {padding: 0 !important; border: 0 !important; display: flex; align-items: center; justify-content: center;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_meraki_single_540x_f067669c-3d1b-45ea-8f72-7d0d1a9dd8ef.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d12f073-1f54-4417-8cc4-f143f514f13e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n    .background-image {\n\t\tdisplay: block !important;\n\t\tbackground-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1304\/4790\/files\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg?v=1691074357');\n\t\tbackground-size: cover;\n\t\tbackground-attachment: fixed;\n\t\tbackground-position: center;\n         min-height: 750px;\n    }\n  <\/style>\n\n<div class=\"background-image\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "d89bff15-26b0-4558-b71b-9f0921f0524b": {
       "type": "featured-blog",
       "settings": {
@@ -195,6 +322,10 @@
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
     "featured_collection",
+    "a21c137e-3e76-4651-a254-174712ae4419",
+    "c332af5d-2714-4bf6-8069-2455adc4807a",
+    "66bce3f8-e172-4c23-a4d1-2b76e39435ad",
+    "8d12f073-1f54-4417-8cc4-f143f514f13e",
     "d89bff15-26b0-4558-b71b-9f0921f0524b"
   ]
 }
