@@ -300,6 +300,20 @@
         "padding_top": 36,
         "padding_bottom": 80
       }
+    },
+    "a4362315-ba24-4dee-83cb-d656adca11ee": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large video with text box",
+        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
     }
   },
   "order": [
@@ -310,6 +324,7 @@
     "c332af5d-2714-4bf6-8069-2455adc4807a",
     "66bce3f8-e172-4c23-a4d1-2b76e39435ad",
     "8d12f073-1f54-4417-8cc4-f143f514f13e",
-    "d89bff15-26b0-4558-b71b-9f0921f0524b"
+    "d89bff15-26b0-4558-b71b-9f0921f0524b",
+    "a4362315-ba24-4dee-83cb-d656adca11ee"
   ]
 }
