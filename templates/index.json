@@ -141,6 +141,51 @@
         "padding_bottom": 40
       }
     },
+    "52c4192e-c5f2-404d-ace2-cce19d3509bd": {
+      "type": "multicolumn",
+      "blocks": {
+        "b3812d6a-77db-41fe-a29f-5f4f4bb8d475": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
+            "title": "O TUBO 32\"",
+            "text": "<p>O FAVORITO DO POVO<\/p>",
+            "link_label": "Compre agora",
+            "link": "shopify:\/\/pages\/blog"
+          }
+        },
+        "e10ce13e-1f1c-4f5a-9485-7176c485102a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_right_medina_720x_c4f69546-d8fe-4011-8b31-4df244f7d89d.webp",
+            "title": "GABRIEL MEDINA",
+            "text": "<p>a série de assinaturas<\/p>",
+            "link_label": "Compre isso",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "b3812d6a-77db-41fe-a29f-5f4f4bb8d475",
+        "e10ce13e-1f1c-4f5a-9485-7176c485102a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
@@ -306,6 +351,7 @@
     "d29b5c1c-1dc9-4b55-a478-7994e2f07ea5",
     "rich_text",
     "4ff2e40f-1840-42b9-9cbb-24b8f9165eed",
+    "52c4192e-c5f2-404d-ace2-cce19d3509bd",
     "featured_collection",
     "c332af5d-2714-4bf6-8069-2455adc4807a",
     "66bce3f8-e172-4c23-a4d1-2b76e39435ad",
