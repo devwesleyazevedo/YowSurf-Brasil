@@ -5,6 +5,9 @@
       <h2 class="section-heading">Heading 1</h2>
       <h1 class="section-large-heading">Heading 2</h1>
       <p class="discription">Lorem ipsum is placeholder text commonly used...</p>
+      {% if section.settings.welcome_image %}
+        <img src="{{ section.settings.welcome_image | img_url }}" alt="Welcome Image">
+      {% endif %}
     </div>
     <div class="col-xs-12 col-md-12 text-center">
       <button class="view-btn"><a href="">read more</a></button>
@@ -12,10 +15,17 @@
   </div>
 </section>
 <!-- Welcome section ends -->
+
 {% schema %}
 {
   "name": "Section name",
-  "settings": [],
+  "settings": [
+    {
+      "type": "image",
+      "id": "welcome_image",
+      "label": "Welcome Image"
+    }
+  ],
   "presets": [
     {
       "name": "Welcome section Test",
@@ -24,7 +34,3 @@
   ]
 }
 {% endschema %}
-{% stylesheet %}
-{% endstylesheet %}
-{% javascript %}
-{% endjavascript %}
